@@ -1,5 +1,9 @@
 # osu! Match Tracker
 
+<p align="center">
+   <img src="assets/banner.svg" alt="SOG Banner" width="900" />
+</p>
+
 A modern dashboard for tracking osu! (Relax/RX) multiplayer matches, analysing player statistics, and gaining deep insights into match performance.
 
 ## Features
@@ -24,8 +28,8 @@ React 19 · TypeScript · Vite · Tailwind CSS · Recharts · idb (IndexedDB)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd osu-match-tracker
+   git clone https://github.com/0xNebi/DeltaT-Osu-Tracker.git
+   cd DeltaT-Osu-Tracker
    ```
 
 2. **Install dependencies**
@@ -76,3 +80,60 @@ src/
 ├── types/         Shared TypeScript interfaces
 └── utils/         Data storage, statistics, ranking algorithms, helpers
 ```
+
+## Project Preview
+
+- **Match overview**
+
+   <p align="center">
+      <img src="assets/match_overview.png" alt="Match overview" width="800" />
+   </p>
+
+- **Leaderboards**
+
+   <p align="center">
+      <img src="assets/leaderboards.png" alt="Leaderboards" width="800" />
+   </p>
+
+- **Rankings**
+
+   <p align="center">
+      <img src="assets/rankings.png" alt="Rankings" width="800" />
+   </p>
+
+- **Match statistics**
+
+   <p align="center">
+      <img src="assets/match_statistics.png" alt="Match statistics" width="800" />
+   </p>
+
+- **Match history**
+
+   <p align="center">
+      <img src="assets/match_history.png" alt="Match history" width="800" />
+   </p>
+
+- **Games and runs**
+
+   <p align="center">
+      <img src="assets/games_and_rounds.png" alt="Games and rounds" width="800" />
+   </p>
+
+- **Players**
+
+   <p align="center">
+      <img src="assets/players.png" alt="Players" width="800" />
+   </p>
+
+- **Maps**
+
+   <p align="center">
+      <img src="assets/maps.png" alt="Maps" width="800" />
+   </p>
+
+- **Settings**
+
+   <p align="center">
+      <img src="assets/settings.png" alt="Settings" width="800" />
+   </p>
+
